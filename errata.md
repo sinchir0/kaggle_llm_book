@@ -15,6 +15,7 @@
 
 | 該当箇所 | 誤 | 正 | 補足 |
 | -- | -- | -- | -- |
+| P. 8 の式 (1.5)  | $$\mathrm{Accuracy} = \frac{TP}{TP + TN + FP + FN}$$ | $$\mathrm{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}$$ |  |
 | P. 32 図 1.26 のキャプション | 翻訳すべきトークンの予測確率の例 | Encoder Decoder Attention で計算される重みの例 |  |
 | P. 33 図 1.27 のキャプション | 計算される重みの例 | Encoder Self-Attention で計算される重みの例 |  |
 | P. 47 の式 (1.29) | ![errata_v1_eq129](./img/errata_v1_eq129.png) | ![errata_v1_eq129_after](./img/errata_v1_eq129_after.png) |  |
